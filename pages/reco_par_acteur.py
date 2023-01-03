@@ -25,7 +25,7 @@ if len(acteur_pref) == 1:
         
         st.write('Nous vous recommandons les 3 films suivants :')
 
-        for i in range(1, 4):
+        for i in range(0, 4):
             st.subheader(title(reco_acteur['tconst'].iloc[i]))                 # displays french title for 1st reco
             st.image(affiche(reco_acteur['tconst'].iloc[i]))                   # displays image
             st.write('Synopsis : ', synopsis(reco_acteur['tconst'].iloc[i]))   # displays synopsis
