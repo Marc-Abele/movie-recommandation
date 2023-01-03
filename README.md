@@ -16,3 +16,4 @@ Retourner une liste de films recommandés en fonction d'IDs ou de noms de films 
 Vous pouvez intégrer ces recommandations à un outil de dashboarding, ou bien faire ces recommandations directement depuis la ligne de commande (“input”).
 
 
+Lien vers le rendu final : https://marc-abele-movie-recommandation-bienvenue-5hyv37.streamlit.app/
